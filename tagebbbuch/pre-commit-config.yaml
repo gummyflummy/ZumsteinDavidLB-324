@@ -22,12 +22,7 @@ repos:
 
 - repo: local
   hooks:
-  -   id: needs-hash
-      name: commit message needs issues
-      language: pygrep
-      entry: '#\d+'
-      args: [--multiline, --negate]
-      stages: [commit-msg]
+  
 
   -   id: pytest-check
       stages: [push]

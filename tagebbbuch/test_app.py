@@ -1,7 +1,7 @@
 from app import app, entries
 
 import pytest
-import Flask
+
 
 # Use Flask's test client for testing
 

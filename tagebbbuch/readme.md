@@ -6,3 +6,4 @@ Um die pre-commits auszuführen müssen sie folgendes im cmd machen: zuerst müs
 
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
+Link: zumsteindavidlb-324.azurewebsites.net

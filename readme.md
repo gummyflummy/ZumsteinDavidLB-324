@@ -6,5 +6,5 @@ Um die pre-commits auszuführen müssen sie folgendes im cmd machen: zuerst müs
 
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
-URL: zumsteindavidlb-324.azurewebsites.net
+URL: zumsteindavidlb-324.azurewebsites.net 
 Um das Passwort aus der lokalen .env zu übertragen habe ich erstmals geschaut welches Passwort in der .env Datei definiert ist. Bei meinem Fall ist es "einSehrGeheimesPasswort. Anschliessend habe ich dann bei meiner Azure Web App unter konfigurationen eine neue Anwendungseinstellung erstellt mit dem Namen PASSWORD und dem Wert einSehrGeheimesPasswort und voila es ist done.
